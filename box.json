@@ -1,10 +1,8 @@
 {
 	"chmod": "0755",
 	"directories": [
-		"src"
 	],
 	"files": [
-		"LICENSE"
 	],
 	"finder": [
 		{
@@ -14,6 +12,6 @@
 	],
 	"git-version": "package_version",
 	"main": "index.php",
-	"output": "cliph.phar",
+	"output": "multiwatch.phar",
 	"stub": true
 }
