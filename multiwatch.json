@@ -1,0 +1,6 @@
+{
+	"watcher": {
+		"test/*.*" : "echo all",
+		"test2/*.js" : "echo js"
+	}
+}
